@@ -1,0 +1,6 @@
+ollama
+dotenv
+openai
+google.genai
+snscrape
+pandas
